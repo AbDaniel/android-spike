@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ImageTut</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_representation">RepresentationActivity</string>
+    <string name="button_send">Open Rep</string>
+    <string name="edit_message_coffee">Enter Coffee Percentage</string>
+    <string name="edit_message_milk">Enter Milk Percentage</string>
+    <string name="edit_message_froth">Enter Froth Percentage</string>
+</resources>
