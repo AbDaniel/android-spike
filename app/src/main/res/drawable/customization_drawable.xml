@@ -1,0 +1,11 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <bitmap android:src="@drawable/cust_fluid_milk"/>
+    </item>
+    <item>
+                <clip
+            android:clipOrientation="vertical"
+            android:gravity="bottom"
+            android:drawable="@drawable/cust_fluid_coffee"/>
+    </item>
+</layer-list>
